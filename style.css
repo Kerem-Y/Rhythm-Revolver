@@ -2,7 +2,7 @@ html, body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  height: 100vh;
+  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -11,4 +11,5 @@ html, body {
 
 canvas {
   display: block;
+  height: 100vh;
 }
